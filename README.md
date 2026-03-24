@@ -151,14 +151,3 @@ This project is for educational and learning purposes.
 
 ---
 
-# 🔥 Bonus Tip (Important)
-
-After uploading, improve your repo by:
-
-* Adding **screenshots**
-* Adding **demo video**
-* Writing **clear commits**
-
-This will make your GitHub look **professional and recruiter-ready** 👍
-
----
